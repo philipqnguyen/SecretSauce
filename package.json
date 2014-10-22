@@ -1,0 +1,14 @@
+{
+  "name": "secretSauce",
+  "version": "0.0.1",
+  "description": "Pass your secret",
+  "author": "Philip Q Nguyen",
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
+  },
+  "depedencies": {
+    "browserify": "*",
+    "watchify": "*"
+  }
+}
